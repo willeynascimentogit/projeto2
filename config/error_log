@@ -1,0 +1,124 @@
+[27-Jun-2020 08:34:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/filesystems.php on line 16
+[27-Jun-2020 11:14:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/logging.php on line 20
+[27-Jun-2020 11:41:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/hashing.php on line 32
+[05-Jul-2020 06:37:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/filesystems.php on line 16
+[06-Jul-2020 12:26:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/hashing.php on line 32
+[06-Jul-2020 15:44:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/logging.php on line 20
+[08-Jul-2020 15:08:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/waansi20/waan.live/cotacao/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/view.php on line 17
+[12-Jul-2020 15:55:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/queue.php on line 16
+[12-Jul-2020 16:04:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/app.php on line 16
+[12-Jul-2020 16:33:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/mail.php on line 19
+[12-Jul-2020 19:23:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/session.php on line 21
+[12-Jul-2020 20:01:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/cache.php on line 21
+[12-Jul-2020 20:20:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/hashing.php on line 32
+[12-Jul-2020 20:39:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/database.php on line 18
+[12-Jul-2020 21:55:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/logging.php on line 20
+[12-Jul-2020 22:23:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/services.php on line 18
+[13-Jul-2020 08:22:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/filesystems.php on line 16
+[13-Jul-2020 08:23:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/broadcasting.php on line 18
+[14-Jul-2020 18:54:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/hashing.php on line 32
+[15-Jul-2020 06:38:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/app.php on line 16
+[16-Jul-2020 04:01:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/mail.php on line 19
+[16-Jul-2020 07:48:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/waansi20/waan.live/cotacao/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/view.php on line 17
+[16-Jul-2020 18:39:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/queue.php on line 16
+[17-Jul-2020 19:57:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/cache.php on line 21
+[18-Jul-2020 13:38:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/logging.php on line 20
+[18-Jul-2020 16:08:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/session.php on line 21
+[18-Jul-2020 19:58:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/database.php on line 18
+[19-Jul-2020 03:28:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/hashing.php on line 32
+[19-Jul-2020 12:18:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/services.php on line 18
+[20-Jul-2020 07:17:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/filesystems.php on line 16
+[20-Jul-2020 21:28:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/waansi20/waan.live/cotacao/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/config/broadcasting.php on line 18

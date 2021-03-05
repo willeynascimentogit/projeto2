@@ -1,0 +1,28 @@
+[03-Jul-2020 19:53:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/waansi20/waan.live/cotacao/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/api.php on line 16
+[05-Jul-2020 04:27:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/waansi20/waan.live/cotacao/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/web.php on line 14
+[15-Jul-2020 05:19:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/waansi20/waan.live/cotacao/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/api.php on line 16
+[15-Jul-2020 22:58:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/waansi20/waan.live/cotacao/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/web.php on line 14
+[19-Jul-2020 04:48:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home2/waansi20/waan.live/cotacao/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/console.php on line 16
+[19-Jul-2020 07:18:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/waansi20/waan.live/cotacao/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/channels.php on line 14
+[26-Jul-2020 00:04:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/waansi20/waan.live/cotacao/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/routes/web.php on line 14

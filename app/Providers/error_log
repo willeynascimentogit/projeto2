@@ -1,0 +1,7 @@
+[14-Jul-2020 02:29:09 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/BroadcastServiceProvider.php on line 8
+[15-Jul-2020 06:26:06 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/AppServiceProvider.php on line 9
+[15-Jul-2020 07:22:54 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/AuthServiceProvider.php on line 8
+[15-Jul-2020 07:41:50 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/RouteServiceProvider.php on line 8
+[15-Jul-2020 08:10:14 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/EventServiceProvider.php on line 10
+[31-Jul-2020 08:35:18 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/AppServiceProvider.php on line 9
+[31-Jul-2020 08:41:14 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home2/waansi20/waan.live/cotacao/app/Providers/AuthServiceProvider.php on line 8

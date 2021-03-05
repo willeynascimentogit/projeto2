@@ -1,0 +1,12 @@
+[05-Jul-2020 06:17:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/waansi20/waan.live/cotacao/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/bootstrap/app.php on line 14
+[08-Jul-2020 18:22:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/waansi20/waan.live/cotacao/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/bootstrap/app.php on line 14
+[18-Jul-2020 12:18:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/waansi20/waan.live/cotacao/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/waansi20/waan.live/cotacao/bootstrap/app.php on line 14

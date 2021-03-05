@@ -1,0 +1,2 @@
+[16-Jul-2020 10:50:06 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home2/waansi20/waan.live/cotacao/database/seeds/UsersTableSeeder.php on line 6
+[16-Jul-2020 16:30:54 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home2/waansi20/waan.live/cotacao/database/seeds/DatabaseSeeder.php on line 5

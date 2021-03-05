@@ -1,0 +1,1 @@
+[16-Jul-2020 21:05:26 America/Fortaleza] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home2/waansi20/waan.live/cotacao/app/Rules/CurrentPasswordCheckRule.php on line 8

@@ -1,0 +1,1 @@
+[15-Jul-2020 04:32:30 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/waansi20/waan.live/cotacao/app/Exceptions/Handler.php on line 8
